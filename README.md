@@ -27,13 +27,6 @@ conda install -c conda-forge graph-tool==2.29
 conda install -c conda-forge python-igraph
 ```
 
-Then, OpenEA can be installed using pip with the following steps:
-
-```bash
-git clone https://github.com/nju-websoft/OpenEA.git OpenEA
-cd OpenEA
-pip install -e .
-```
 ## Package Description
 ```
 run/
