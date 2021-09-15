@@ -60,6 +60,8 @@ We choose three well-known KGs as our sources: DBpedia (2016-10),Wikidata (20160
 
 |100K dense datasets| English | DW100D, DY100D
 
+The  datasets can be downloaded from [Baidu Wangpan](https://pan.baidu.com/s/1mYec9tLp9tQpnqx0JsH7xw) (password: 85kq).
+
 ## Experiments
 
 ### Experiment Settings
