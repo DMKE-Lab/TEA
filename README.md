@@ -43,7 +43,7 @@ We choose three well-known KGs as our sources: DBpedia (2016-10),Wikidata (20160
 
 |---------Types---------|Languages|Dataset names|
 
-|--------------------------|----------|----------------------| 
+|------------------------|----------|----------------------| 
 
 |15K sparse datasets |English| DW15S, DY15S
 
